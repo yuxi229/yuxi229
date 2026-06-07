@@ -1,7 +1,7 @@
 ## These are my most relevant projects available on Github
 
 
-- [BactoCat](https://github.com/lyach/BacoCat) 
+- [BactoCat](https://github.com/lyach/BactoCat) 
 - [PseudoPipe](https://github.com/gersteinlab/PseudoPipe) (not public yet) 
 
 How to reach me: yuxii.zhang@mail.utoronto.ca 
