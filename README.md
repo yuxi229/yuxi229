@@ -1,4 +1,10 @@
-## Hi there 👋
+## These are my most relevant projects available on Github
+
+
+- [BactoCat]([https://github.com/lyach/BacoCat]) 
+- [PseudoPipe]([https://github.com/gersteinlab/PseudoPipe]) (not public yet) 
+
+How to reach me: yuxii.zhang@mail.utoronto.ca 
 
 <!--
 **yuxi229/yuxi229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
